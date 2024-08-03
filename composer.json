@@ -1,0 +1,18 @@
+{
+    "name": "victor/buscador-cursos",
+    "description": "Projetos que busca os cursos no site da Alura",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Victor\\BuscadorCursos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Victor",
+            "email": "victorazzolini94@gmail.com"
+        }
+    ],
+    "require": {}
+}
